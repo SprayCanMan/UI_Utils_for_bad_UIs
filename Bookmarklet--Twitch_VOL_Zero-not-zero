@@ -1,0 +1,1 @@
+javascript:(function(){var dookiemonster0 = document.body.querySelector(".video-player video");dookiemonster0.volume = 0.001;})();
