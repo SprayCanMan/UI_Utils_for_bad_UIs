@@ -1,0 +1,1 @@
+var thecollection = document.getElementById("ctl00_cphMainContent_ProductGroupTree").querySelectorAll("label");for(var i=0; i < thecollection.length; i++) {if(thecollection[i].querySelector("span.rtIn").textContent == "Marketing Materials"){thecollection[i].querySelector("input.rtChk").click();}}
